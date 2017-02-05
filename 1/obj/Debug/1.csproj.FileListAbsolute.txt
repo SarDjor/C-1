@@ -1,0 +1,12 @@
+D:\Кулич ФИТ 2-1\1\1\bin\Debug\1.exe.config
+D:\Кулич ФИТ 2-1\1\1\bin\Debug\1.exe
+D:\Кулич ФИТ 2-1\1\1\bin\Debug\1.pdb
+D:\Кулич ФИТ 2-1\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+D:\Кулич ФИТ 2-1\1\1\obj\Debug\1.exe
+D:\Кулич ФИТ 2-1\1\1\obj\Debug\1.pdb
+e:\c#\1\1\bin\Debug\1.exe.config
+e:\c#\1\1\obj\Debug\1.exe
+e:\c#\1\1\obj\Debug\1.pdb
+e:\c#\1\1\bin\Debug\1.exe
+e:\c#\1\1\bin\Debug\1.pdb
+e:\c#\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
